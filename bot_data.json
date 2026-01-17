@@ -1,0 +1,169 @@
+{
+  "users": [
+    8136678328,
+    164796308,
+    8276292813,
+    7672544936
+  ],
+  "extra_admins": [
+    7672544936
+  ],
+  "inbox": [
+    {
+      "time": "2026-01-06 01:16:32",
+      "name": "M .SH",
+      "username": "@mohammeda_shab1",
+      "id": "164796308",
+      "text": "آلُـۜسـۨۚ(✋)ــِۖلُأمٌ ؏ـليۜـ(💜)ـكـۜم وݛحـٍّْـٍّْ⁽😘₎ـٍّْمهہ الًـًٍۖـٍـٍۖ(☝)ٍۖـًٍٍٍّـًٍلۖهًٍۖۂ وبـۗـۗـۗـۗـۗـۗركۧۧــۧۧۧۧۧـۗـۗ(ۗ😇)ـۗـۗاتهۂ عليكم"
+    }
+  ],
+  "general_groups": [],
+  "colleges": {
+    "🏢 كلية إدارة الأعمال": {
+      "about": "كلية تهتم بإعداد كوادر في الإدارة والمحاسبة والاقتصاد وMIS والتسويق.",
+      "url": "https://www.aou.edu.kw/ar/academic-programs/Pages/default.aspx",
+      "whatsapp": [],
+      "telegram": []
+    },
+    "💻 كلية دراسات الحاسوب": {
+      "about": "كلية تقنية تهتم بالحوسبة وتقنية المعلومات وتطوير المهارات البرمجية.",
+      "url": "https://www.aou.edu.kw/ar/academic-programs/Pages/default.aspx",
+      "whatsapp": [],
+      "telegram": []
+    },
+    "👩‍🏫 كلية التربية": {
+      "about": "كلية متخصصة في برامج التربية والتعليم والتربية الخاصة والابتدائية.",
+      "url": "https://www.aou.edu.kw/ar/academic-programs/Pages/default.aspx",
+      "whatsapp": [],
+      "telegram": []
+    },
+    "🌍 كلية اللغات": {
+      "about": "كلية تهتم بدراسة اللغات والترجمة حسب البرامج المتاحة بالفرع.",
+      "url": "https://www.aou.edu.kw/ar/academic-programs/Pages/default.aspx",
+      "whatsapp": [],
+      "telegram": []
+    }
+  },
+  "calendar": {
+    "semester_name": "الفصل الدراسي الأول",
+    "semester_start": "2026/20/2",
+    "semester_end": "2027/26/6",
+    "adddrop_start": "غير معروف",
+    "adddrop_end": "غير معروف",
+    "pdf1": "",
+    "pdf2": "",
+    "uploaded_pdf_file_id": "BQACAgQAAxkBAAIDU2lcN0FlT30DuQKB-YVUhjk6CXe2AALaHQAC93vgUn77nKyYQnQjOAQ",
+    "uploaded_pdf_name": "Academic Calendar 2025-1-UPD1.PDF",
+    "last_updated": "2026-01-06 01:14:12",
+    "last_source": "manual",
+    "manual_locked": "true",
+    "auto_enabled": "true",
+    "display_mode": "auto",
+    "manual_text": ""
+  },
+  "contact_collection_enabled": false,
+  "contacts_ok": [],
+  "contacts_rejected": [],
+  "content_items": {
+    "sum_books": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "add_drop": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "strike": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "exams": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "calendar_attach": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": "2026-01-17 09:18:35"
+    },
+    "absence": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "annual_plan": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "deprivation": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "sum_notes": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "reg_cont": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "schedule": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    },
+    "reg_new": {
+      "text": "",
+      "file_id": "",
+      "file_type": "",
+      "file_name": "",
+      "mime_type": "",
+      "updated_at": ""
+    }
+  },
+  "hidden_buttons": [],
+  "button_labels": {
+    "main_calendar": "التقويم الأكاديمي الفصل الدراسي الثاني"
+  }
+}
